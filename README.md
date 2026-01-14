@@ -2,7 +2,7 @@
 Practice worksheet for analyst roles and responsibilities 
 # Data-Related Job Dashboard (Excel)
 
-![Dashboard Preview](images/MyDashboard.png)
+![Dashboard Preview](image/MyDashboard.png)
 
 ## Overview
 
