@@ -2,6 +2,8 @@
 Practice worksheet for analyst roles and responsibilities 
 # Data-Related Job Dashboard (Excel)
 
+![Dashboard Preview](images/MyDashboard.png)
+
 ## Overview
 
 This project is an Excel-based **Data-Related Job Dashboard** built as part of *Project 1* from the course **“Excel for Data Analytics – Course for Beginners”** by Luke Barousse. The goal of the project was to explore how Excel can be used for structured data analysis, aggregation and insight communication using real-world-style data.
